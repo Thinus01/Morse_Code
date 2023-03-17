@@ -97,6 +97,12 @@ Install this project with:
 - Twitter: [@twitter](https://twitter.com/thinus_v_d_v)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thinus-van-de-venter-99aa26203/)
 
+👤 **Billal Chami**
+
+- GitHub: [@githubhandle](https://github.com/bill7pearl)
+- Twitter: [@twitterhandle](https://twitter.com/BillChami)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/billal-chami-263497194/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
