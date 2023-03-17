@@ -27,7 +27,6 @@ def decode(words)
   arr.join(' ')
 end
 
-# Example usage
 input_string = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 decoded_string = decode(input_string)
-puts decoded_string # Output: A BOX FULL OF RUBIES
+puts decoded_string
